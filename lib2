@@ -303,7 +303,7 @@ function library:new(props)
 		"Frame",
 		{
 			BackgroundColor3 = Color3.fromRGB(20, 20, 20),
-			BorderColor3 = Color3.fromRGB(56, 56, 56),
+			BorderColor3 = Color3.fromRGB(0, 59, 179),
 			BorderMode = "Inset",
 			BorderSizePixel = 1,
 			Size = UDim2.new(1,0,1,0),
